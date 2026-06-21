@@ -24,6 +24,12 @@ This project allows users to:
 ## Technologies Used
 - Python 
 
+## Example Output
+Enter message: HELLO
+Enter shift: 3
+Encrypted text: KHOOR
+Decrypted text: HELLO
+
 ## How to Run
 1. Clone repository
 2. Open terminal
